@@ -3,9 +3,6 @@ const butttonDecrementEl = document.querySelector('[data-action="decrement"]')
 const butttonIncrementEl = document.querySelector('[data-action="increment"]')
 const counterValueEl = document.querySelector('#value')
 
-console.log(butttonDecrementEl)
-console.log(butttonIncrementEl)
-console.log(counterValueEl)
 
 
 
